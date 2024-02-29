@@ -1,0 +1,15 @@
+{
+  "name": "data.culinar.ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clean.js",
+  "scripts": {
+    "import": "node ./lib/import"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^10.3.10"
+  },
+  "type": "module"
+}
